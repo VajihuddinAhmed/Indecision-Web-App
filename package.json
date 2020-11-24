@@ -1,0 +1,26 @@
+{
+  "name": "indecision-web-app",
+  "version": "1.0.0",
+  "description": "This app will let you make decisions randomly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VajihuddinAhmed/Indecision-Web-App.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Vajih Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VajihuddinAhmed/Indecision-Web-App/issues"
+  },
+  "homepage": "https://github.com/VajihuddinAhmed/Indecision-Web-App#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
