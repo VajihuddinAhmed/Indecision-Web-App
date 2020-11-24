@@ -20,6 +20,13 @@
   },
   "homepage": "https://github.com/VajihuddinAhmed/Indecision-Web-App#readme",
   "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "live-server": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
